@@ -1,1 +1,0 @@
-https://wiki.qt.io/Building_a_static_Qt_for_Windows_using_MinGW
